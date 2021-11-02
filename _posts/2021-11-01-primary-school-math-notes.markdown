@@ -6,6 +6,23 @@ categories: article
 ---
 
 
+## Combinatorics
+
+* The number of ways to choose $$n$$ items from $$m$$ items is 
+
+$$\binom{m}{n} = \frac{m(m-1)(m-2)\dots(m-n+1)}{1\times 2 \times 3 \dots n}$$
+
+## Number Theory
+
+* Divisibility Rules
+	- 2:  The last digit is an even number. 
+	- 3: The sum of the digits is divisible by 3.
+	- 4: The last two digit form a number that is divisible by 4. 
+	- 5: The last digit is either a 5 or a 0 (zero).
+	- 6: The number is divisible by BOTH 2 and 3
+	- 7: You can double the last digit and subtract the sum from the rest of the number, and set an answer that is divisible by 7. 
+	- 8: The last three digits from the a number that is divisible by 8.
+	- 9: The sum of all the digits is divisible by 9. 
 
 ## Geometry
 
@@ -24,26 +41,12 @@ $$\frac{S_{ABC}}{S_{ACD}} = \frac{BC}{CD}$$
 ![some](/assets/trapezoid-with-diagonals.jpeg)
 {: refdef}
 
-$$\frac{AO}{OC} = \frac{BO}{OD} = \frac{AB}{DC}$$
+$$\frac{AO}{OC} = \frac{BO}{OD} = \frac{AB}{DC} = \frac{S_{AOB}}{S_{BOC}} = \frac{S_{BOC}}{S_{COD}} = k$$
+
+$$\frac{S_{AOB}}{S_{COD}} = \frac{1}{k^2} $$
 
 $$S_{AOD} = S_{BOC}$$
 
+## Misc
 
-## Combinatorics
-
-* The number of ways to choose $$n$$ items from $$m$$ items is 
-
-$$\binom{m}{n} = \frac{m(m-1)(m-2)\dots(m-n+1)}{1\times 2 \times 3 \dots n}$$
-
-
-## Number Theory
-
-* Divisibility Rules
-	- 2:  The last digit is an even number. 
-	- 3: The sum of the digits is divisible by 3.
-	- 4: The last two digit form a number that is divisible by 4. 
-	- 5: The last digit is either a 5 or a 0 (zero).
-	- 6: The number is divisible by BOTH 2 and 3
-	- 7: You can double the last digit and subtract the sum from the rest of the number, and set an answer that is divisible by 7. 
-	- 8: The last three digits from the a number that is divisible by 8.
-	- 9: The sum of all the digits is divisible by 9. 
+* The minute hand moves 6 degrees each minute, the hour hands moves 0.5 degrees each minute
