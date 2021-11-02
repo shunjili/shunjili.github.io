@@ -8,7 +8,11 @@ categories: article
 
 ## Combinatorics
 
-* The number of ways to choose $$n$$ items from $$m$$ items is 
+* Permutations: Number of ways you can arrange $$r$$ from a set of $$n$$ if the order matters?
+
+$$ n(n-1)(n-2)\dots (n-r+1)$$
+
+* Combinations: The number of ways to choose $$n$$ items from $$m$$ items is 
 
 $$\binom{m}{n} = \frac{m(m-1)(m-2)\dots(m-n+1)}{1\times 2 \times 3 \dots n}$$
 
