@@ -26,7 +26,7 @@ $$\binom{m}{n} = \frac{m(m-1)(m-2)\dots(m-n+1)}{1\times 2 \times 3 \dots n}$$
 
 ## Geometry
 
-* And similarly, triangles with the same height will have areas whose ratio is the same as the ratio of their bases. In the graph below 
+* Triangles with the same height will have areas whose ratio is the same as the ratio of their bases. In the graph below 
 
 
 {:refdef: style="text-align: center;"}
