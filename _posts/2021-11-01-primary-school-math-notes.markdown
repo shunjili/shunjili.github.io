@@ -34,7 +34,7 @@ $$\binom{m}{n} = \frac{m(m-1)(m-2)\dots(m-n+1)}{1\times 2 \times 3 \dots n}$$
 
 
 {:refdef: style="text-align: center;"}
-![some](/assets/Speed-Distance-Time/2017-1-24.png)
+![some](/assets/triangles-with-same-height.jpeg)
 {: refdef}
 
 $$\frac{S_{ABC}}{S_{ACD}} = \frac{BC}{CD}$$
